@@ -35,7 +35,7 @@ class _DetailsState extends State<Details> {
                   icon: const Icon(Icons.arrow_back_ios),
                 ),
                 Text(
-                  "details",
+                  "Details",
                   style: TxtStyle.font600Size18Black,
                 ),
                 IconButton(
