@@ -10,4 +10,6 @@ class ColorsManager {
   static const Color moreLightBrown = Color.fromRGBO(255, 245, 238, 1);
   static const Color darkGrey = Color.fromRGBO(49, 49, 49, 1);
   static const Color moreLightGrey = Color.fromRGBO(243, 243, 243, 1);
+  static const Color green = Color.fromRGBO(47, 75, 78, 1);
+
 }

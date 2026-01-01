@@ -67,5 +67,11 @@ class TxtStyle {
       fontWeight: FontWeight.w600
 
   );
+  static TextStyle font600Size18green = TextStyle(
+      color: ColorsManager.green,
+      fontSize: 18,
+      fontWeight: FontWeight.w600
+
+  );
 
 }
