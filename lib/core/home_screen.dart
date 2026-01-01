@@ -116,7 +116,7 @@ class HomeScreen extends StatelessWidget{
                               borderRadius: BorderRadius.circular(12),
                               color: Color.fromRGBO(243, 243, 243,1)),
                           child: Center(
-                            child: Text("Latte",
+                            child: Text("Lattte",
                               style: TxtStyle.font400Size14Black,),
                           ),
                         ),
