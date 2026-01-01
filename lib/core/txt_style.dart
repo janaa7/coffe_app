@@ -55,4 +55,17 @@ class TxtStyle {
       fontWeight: FontWeight.w600
 
   );
+  static TextStyle font400Size12white = TextStyle(
+      color: Colors.white,
+      fontSize: 12,
+      fontWeight: FontWeight.w400
+
+  );
+  static TextStyle font600Size14white = TextStyle(
+      color: Colors.white,
+      fontSize: 14,
+      fontWeight: FontWeight.w600
+
+  );
+
 }
