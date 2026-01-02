@@ -3,7 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:untitled/core/txt_style.dart';
 
 import '../details.dart';
-import 'colors_manager.dart';
+
+import 'core/colors_manager.dart';
 
 class HomeScreen extends StatefulWidget {
   HomeScreen({super.key});

@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:untitled/login_screen.dart';
 
-import 'core/home_screen.dart';
-import 'core/order.dart';
 import 'details.dart';
+import 'order.dart';
 
 void main() {
   runApp(const MyApp());
